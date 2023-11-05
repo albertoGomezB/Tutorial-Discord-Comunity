@@ -1,0 +1,2 @@
+INSERT INTO books (code, isbn, title, autor, edition_date) VALUES ('12345', 'ISBN 0-7645-2641-3', 'Clean Code', 'Robert C. Martin', '2017-09-02');
+INSERT INTO books (code, isbn, title, autor, edition_date) VAlUES ('12346', 'ISBN 0-7645-2641-4', 'Clean Architecture', 'Robert C. Martin', '2016-08-05');
